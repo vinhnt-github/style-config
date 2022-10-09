@@ -16,7 +16,7 @@
     }
   },
   "lint-staged": {
-    "*.scss": "yarn lint --fix"
+    "*.scss": "yarn lint:fix"
   },
   "dependencies": {
     "normalize-scss": "^7.0.1",
